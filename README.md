@@ -1,5 +1,4 @@
-### Olá ta tudo sou o Lagosta!
-Portuguese, get out
-I like Python, no public projects tho
+### Hi There 👋
+lagosta@11-1.digital
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
